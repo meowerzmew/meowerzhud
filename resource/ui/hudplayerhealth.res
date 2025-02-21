@@ -5,8 +5,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"200"
-		"ypos"			"r200"
+		"xpos"			"c-215"
+		"ypos"			"c35"
 		"zpos"			"2"
 		"wide"			"250"
 		"tall"			"120"
@@ -82,7 +82,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"HudFontMediumSmallBold"
+		"font"			"TF2Build20"
 		"fgcolor"		"TanDark"
 	}
 	"PlayerStatusMaxHealthValue"

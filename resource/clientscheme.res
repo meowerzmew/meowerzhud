@@ -3036,43 +3036,75 @@ Scheme
 			}
 		}
 		
-		"Cocogoose12"
+		"TF2Build20"
 		{
 			"1"
 			{
-				"name"		"COCOGOOSE LETTERPRESS"
-				"tall"		"12"
-				"antialias"	"1"
+				"name"		"TF2 Build"
+				"tall"		"20"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		
-		"Lemonmilk14"
+		"TF2Build30"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Regular"
-				"tall"		"14"
-				"antialias"	"1"
+				"name"		"TF2 Build"
+				"tall"		"30"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		
-		"Lemonmilk16"
+		"TF2Build40"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Regular"
-				"tall"		"16"
-				"antialias"	"1"
+				"name"		"TF2 Build"
+				"tall"		"40"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 		
-		"Lemonmilk24"
+		"TF2Build50"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Regular"
-				"tall"		"24"
-				"antialias"	"1"
+				"name"		"TF2 Build"
+				"tall"		"50"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"TF2Build60"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"60"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"TF2Build70"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"70"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 	}
@@ -5885,16 +5917,6 @@ Scheme
 			{
 				"range" "0x0000 0x007E"
 			}
-		}
-		"8"
-		{
-			"font" "resource/fonts/COCOGOOSELETTERPRESS TRIAL.ttf"
-			"name" "COCOGOOSE LETTERPRESS"
-		}
-		"9"
-		{
-			"font"	"resource/fonts/LEMONMILK-Regular.otf
-			"name"	"LEMON MILK Regular"
 		}
 		"10"		"resource/linux_fonts/DejaVuSans.ttf"
 		"11"		"resource/linux_fonts/DejaVuSans-Bold.ttf"
